@@ -1,0 +1,2348 @@
+[{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c166f"
+  },
+  "name": "Palak Soup",
+  "price": 160,
+  "description": "Creamy palak soup, a vibrant green elixir of velvety spinach blended with aromatic spices, is a luscious symphony for your taste buds.",
+  "category": "Soups",
+  "stock": 120,
+  "images": [
+    {
+      "public_id": "some_public_id2",
+      "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/spinach-soup-palak-soup.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1670"
+  },
+  "name": "Spring Onion Soup",
+  "price": 150,
+  "description": "Spring onion and herb soup, a garden's embrace in a bowl, marries the bold freshness of spring onions with the delicate charm of fragrant herbs for an exquisite culinary symphony.",
+  "category": "Soups",
+  "stock": 99,
+  "images": [
+    {
+      "public_id": "some_public_id3",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/lmixcwuu8ih28lipxdbm"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1671"
+  },
+  "name": "Sauteed Broccoli",
+  "price": 360,
+  "description": "Sauteed broccoli, a savory revelation of crisp perfection bathed in a tantalizing symphony of flavors.",
+  "category": "Starters",
+  "stock": 59,
+  "images": [
+    {
+      "public_id": "some_public_id4",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/qxomy3q924hnhqjtjeut"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1672"
+  },
+  "name": "Bhindi Masala",
+  "price": 250,
+  "description": "Bhindi masala, tender okra cooked to crispy perfection in a symphony of aromatic spices, is a flavorful delight that's impossible to resist.",
+  "category": "Subzi Mains",
+  "stock": 75,
+  "images": [
+    {
+      "public_id": "some_public_id5",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/smzbxhou0o02uqj1yphi"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1673"
+  },
+  "name": "Sabzi Punjabi",
+  "price": 290,
+  "description": "Subzi Punjabi, a riot of colorful vegetables simmered in rich tomato gravy, is a flavor-packed journey to the heart of North India's culinary traditions.",
+  "category": "Subzi Mains",
+  "stock": 110,
+  "images": [
+    {
+      "public_id": "some_public_id6",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/szgvpry3heeutppgjckc"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1674"
+  },
+  "name": "Kadai Wala Paneer",
+  "price": 320,
+  "description": "Kadai wala paneer, succulent cubes of paneer sautéed with aromatic spices in a sizzling iron wok, offers a tantalizing taste of Indian culinary mastery.",
+  "category": "Paneer Mains",
+  "stock": 102,
+  "images": [
+    {
+      "public_id": "some_public_id7",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/m6vzxjo34yubesbiglmz"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1675"
+  },
+  "name": "Cheese Garlic Naan",
+  "price": 150,
+  "description": "Cheese garlic naan, a divine fusion of soft, aromatic bread lavishly adorned with melted cheese and aromatic garlic, is a heavenly indulgence for your palate.",
+  "category": "Desi Breads",
+  "stock": 85,
+  "images": [
+    {
+      "public_id": "some_public_id8",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ozxz4t6ipzhc5gfjr2or"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1676"
+  },
+  "name": "Stuffed Aloo Kulcha",
+  "price": 160,
+  "description": "Stuffed aloo kulcha, fluffy and fragrant bread enveloping a delectable potato filling, is a taste of Indian comfort at its finest.",
+  "category": "Desi Breads",
+  "stock": 97,
+  "images": [
+    {
+      "public_id": "some_public_id9",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/qxp8r4ytzxlsoxh8ye82"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1677"
+  },
+  "name": "Sweet Lassi",
+  "price": 150,
+  "description": "Sweet lassi, a creamy concoction of chilled yogurt blended with sugar and aromatic spices, is a refreshing sip of pure indulgence on a hot day.",
+  "category": "Beverages",
+  "stock": 65,
+  "images": [
+    {
+      "public_id": "some_public_id10",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/m8n3vty8ozuwyongcvx6"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1678"
+  },
+  "name": "Rava Idly",
+  "price": 92,
+  "description": "Soft and delicious idly made from semolina.",
+  "category": "Idly",
+  "stock": 156,
+  "images": [
+    {
+      "public_id": "some_public_id11",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a03df7135d8782ecf9a2328e41832f04"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T14:25:55.004Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1679"
+  },
+  "name": "Ghee Podi Idly",
+  "price": 72,
+  "description": "Idly coated with flavorful ghee and spice podi.",
+  "category": "Idly",
+  "stock": 121,
+  "images": [
+    {
+      "public_id": "some_public_id12",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/7/18475417/5167d5dca01e39ce9a55fcc80622e9c7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c167a"
+  },
+  "name": "Bangalore Benne Masala Dosa",
+  "price": 175,
+  "description": "Classic South Indian dosa with a delicious potato masala filling.",
+  "category": "Dosa",
+  "stock": 98,
+  "images": [
+    {
+      "public_id": "some_public_id13",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/fb0bfbb9e08ebead7b64c14ca2ee9e4e"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c167b"
+  },
+  "name": "Open Butter Masala Dosa",
+  "price": 155,
+  "description": "Crispy dosa with an open buttery layer and savory masala filling.",
+  "category": "Dosa",
+  "stock": 79,
+  "images": [
+    {
+      "public_id": "some_public_id14",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/e69078c9db9cff63fcc7016db4ecac31"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c167c"
+  },
+  "name": "Ghee Podi Dosa",
+  "price": 195,
+  "description": "Dosa flavored with ghee and a spicy podi mix.",
+  "category": "Dosa",
+  "stock": 99,
+  "images": [
+    {
+      "public_id": "some_public_id15",
+      "url": "https://b.zmtcdn.com/data/reviews_photos/3ea/567a03b1193a6731c810d3bc5a2d23ea_1555939775.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T14:25:55.020Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c167d"
+  },
+  "name": "Red Rice Butter Dosa",
+  "price": 155,
+  "description": "Healthy red rice dosa with a generous layer of butter.",
+  "category": "Dosa",
+  "stock": 80,
+  "images": [
+    {
+      "public_id": "some_public_id16",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/7/18475417/a000933a8dd38e5b71d905af227a2109.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c167e"
+  },
+  "name": "Mangalore Bun",
+  "price": 75,
+  "description": "Traditional Mangalorean snack with a crispy texture.",
+  "category": "Snacks",
+  "stock": 132,
+  "images": [
+    {
+      "public_id": "some_public_id17",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/26740b197ed3d572b81bf8df4a1827c3"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c167f"
+  },
+  "name": "Maddur Vada",
+  "price": 70,
+  "description": "Crunchy and savory vada from Maddur region.",
+  "category": "Snacks",
+  "stock": 85,
+  "images": [
+    {
+      "public_id": "some_public_id18",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d8c7d37596ae499a940e5da16525b079"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1680"
+  },
+  "name": "Coffee",
+  "price": 45,
+  "description": "Aromatic and energizing coffee brewed to perfection.",
+  "category": "Beverages",
+  "stock": 174,
+  "images": [
+    {
+      "public_id": "some_public_id19",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYixfz7PIWQrGiP8MBgg_n3yBWZpJCEbjDwg&usqp=CAU"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T14:25:55.028Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1681"
+  },
+  "name": "Rose Milk",
+  "price": 98,
+  "description": "Refreshing rose-flavored milkshake with a hint of sweetness.",
+  "category": "Beverages",
+  "stock": 98,
+  "images": [
+    {
+      "public_id": "some_public_id20",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/67f75694574c7e5a0f0e7c9d6622936f"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1682"
+  },
+  "name": "Cream of Tomato Soup",
+  "price": 198,
+  "description": "Rich and creamy tomato soup with a touch of elegance.",
+  "category": "Soups",
+  "stock": 104,
+  "images": [
+    {
+      "public_id": "some_public_id21",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/yvmj1h2qnokucsbjegma"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1683"
+  },
+  "name": "Manchow Soup",
+  "price": 198,
+  "description": "Spicy and tangy soup loaded with vegetables and crunchy noodles.",
+  "category": "Soups",
+  "stock": 88,
+  "images": [
+    {
+      "public_id": "some_public_id22",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/4f82048e670a39ad7b1eab88d473fc43"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1684"
+  },
+  "name": "Talumein",
+  "price": 198,
+  "description": "Savory and comforting noodle soup with a medley of flavors.",
+  "category": "Soups",
+  "stock": 67,
+  "images": [
+    {
+      "public_id": "some_public_id23",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/cznove58t0nh5bhep0rx"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1685"
+  },
+  "name": "Khao Suey",
+  "price": 268,
+  "description": "Burmese delicacy with a delightful mix of noodles and curry toppings.",
+  "category": "Soups",
+  "stock": 69,
+  "images": [
+    {
+      "public_id": "some_public_id24",
+      "url": "https://www.cookwithmanali.com/wp-content/uploads/2020/02/Burmese-Khow-Suey-500x500.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1686"
+  },
+  "name": "Hot Bamboo Shoot Soup",
+  "price": 228,
+  "description": "Spicy soup infused with the earthy flavors of bamboo shoots.",
+  "category": "Soups",
+  "stock": 100,
+  "images": [
+    {
+      "public_id": "some_public_id25",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/dawkbqolwuu1bt2jkdga"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1687"
+  },
+  "name": "Chilli Lotus Stem",
+  "price": 398,
+  "description": "Crispy lotus stem tossed in a fiery chili sauce for a spicy kick.",
+  "category": "Starters",
+  "stock": 96,
+  "images": [
+    {
+      "public_id": "some_public_id26",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/vvhhoymxrjoccvovzf0"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1688"
+  },
+  "name": "Kimchi",
+  "price": 398,
+  "description": "Spicy and tangy Korean fermented cabbage with a punch of flavor.",
+  "category": "Starters",
+  "stock": 76,
+  "images": [
+    {
+      "public_id": "some_public_id27",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/66e446e18ab549ca02f651c733a75162"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1689"
+  },
+  "name": "Spicy Tofu Basil Paste",
+  "price": 398,
+  "description": "A tantalizing blend of spicy tofu and aromatic basil paste.",
+  "category": "Starters",
+  "stock": 87,
+  "images": [
+    {
+      "public_id": "some_public_id28",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/rvdxuayahtohlhn5yr7s"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1690"
+  },
+  "name": "Rice Paper Roll",
+  "price": 398,
+  "description": "Delicate rice paper rolls filled with fresh vegetables and herbs.",
+  "category": "Starters",
+  "stock": 59,
+  "images": [
+    {
+      "public_id": "some_public_id29",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a2uiyosa0twqacnecirp"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1691"
+  },
+  "name": "Vegetable Thai Curry",
+  "price": 498,
+  "description": "A fragrant Thai curry loaded with colorful vegetables and aromatic spices.",
+  "category": "Curries",
+  "stock": 134,
+  "images": [
+    {
+      "public_id": "some_public_id30",
+      "url": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Vegetarian_Thai_Green_Curry_Recipe-2-2.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1692"
+  },
+  "name": "Northern Vegetable Curry",
+  "price": 488,
+  "description": "A hearty northern-style vegetable curry with robust flavors.",
+  "category": "Curries",
+  "stock": 118,
+  "images": [
+    {
+      "public_id": "some_public_id31",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/mjqbhwihupkcyvtttct8"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1693"
+  },
+  "name": "Burnt Garlic Fried Rice",
+  "price": 388,
+  "description": "Fragrant fried rice with a smoky burnt garlic aroma.",
+  "category": "Rice and Gravy",
+  "stock": 109,
+  "images": [
+    {
+      "public_id": "some_public_id32",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ttueblh6ghgqqadff65o"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1694"
+  },
+  "name": "Chow Faan",
+  "price": 358,
+  "description": "Stir-fried rice noodles with a medley of vegetables and soy sauce.",
+  "category": "Rice and Gravy",
+  "stock": 131,
+  "images": [
+    {
+      "public_id": "some_public_id33",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/kflqs4tqvkyeukmtohan"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1695"
+  },
+  "name": "Nasi Goreng",
+  "price": 398,
+  "description": "Indonesian fried rice served with a fried egg and flavorful condiments.",
+  "category": "Rice and Gravy",
+  "stock": 92,
+  "images": [
+    {
+      "public_id": "some_public_id34",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/npmswufhymkupbzq3yxn"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1696"
+  },
+  "name": "Stir Fry Vegetables",
+  "price": 398,
+  "description": "Fresh and crunchy mixed vegetables stir-fried to perfection.",
+  "category": "Rice and Gravy",
+  "stock": 101,
+  "images": [
+    {
+      "public_id": "some_public_id35",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/zbjgjxdqvlgsy7cvgqt2"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1697"
+  },
+  "name": "Kung Pao Vegetable",
+  "price": 398,
+  "description": "Spicy and nutty stir-fried vegetables with a hint of Sichuan peppercorns.",
+  "category": "Rice and Gravy",
+  "stock": 79,
+  "images": [
+    {
+      "public_id": "some_public_id36",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/vhuygmehuqgsgxxqwp4d"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1698"
+  },
+  "name": "Dragon Chilli Noodles",
+  "price": 378,
+  "description": "Fiery hot noodles with a dragon's kick of spice and flavor.",
+  "category": "Noodles",
+  "stock": 91,
+  "images": [
+    {
+      "public_id": "some_public_id37",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a462c208126314e12c9b4a32011f27bb"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1699"
+  },
+  "name": "Singapore Noodles",
+  "price": 368,
+  "description": "Classic Singaporean-style stir-fried vermicelli noodles with a delightful mix of ingredients.",
+  "category": "Noodles",
+  "stock": 81,
+  "images": [
+    {
+      "public_id": "some_public_id38",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gzwuo3qfvxuibpbp4kvr"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1700"
+  },
+  "name": "Chowmein",
+  "price": 348,
+  "description": "Stir-fried hakka noodles with a delectable mix of vegetables and sauces.",
+  "category": "Noodles",
+  "stock": 95,
+  "images": [
+    {
+      "public_id": "some_public_id39",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/vhbmxu2xpcqnwg3wevba"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1701"
+  },
+  "name": "Kway Teaw",
+  "price": 398,
+  "description": "Flat rice noodles in a flavorful and aromatic broth.",
+  "category": "Noodles",
+  "stock": 65,
+  "images": [
+    {
+      "public_id": "some_public_id40",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/fenisx6tf3vxtc3wqa31"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1702"
+  },
+  "name": "Gobi Manchurian",
+  "price": 265,
+  "description": "Crispy cauliflower florets tossed in spicy Manchurian sauce.",
+  "category": "Starters",
+  "stock": 121,
+  "images": [
+    {
+      "public_id": "some_public_id41",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/md8kqlebkeytahanv51l"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1703"
+  },
+  "name": "Baby Corn Chilli",
+  "price": 280,
+  "description": "Crispy baby corn sautéed with chili and spices, a perfect appetizer.",
+  "category": "Starters",
+  "stock": 92,
+  "images": [
+    {
+      "public_id": "some_public_id42",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/bhdeclxaeqmgovpj6bbt"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1704"
+  },
+  "name": "Andhra Chicken Kebab",
+  "price": 305,
+  "description": "Spicy and flavorful chicken kebabs with an Andhra twist.",
+  "category": "Starters",
+  "stock": 79,
+  "images": [
+    {
+      "public_id": "some_public_id43",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/mddh8sy3wqdy3i9gr82h"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1705"
+  },
+  "name": "Egg Roast",
+  "price": 190,
+  "description": "Hard-boiled eggs cooked in a spicy and aromatic masala.",
+  "category": "Starters",
+  "stock": 82,
+  "images": [
+    {
+      "public_id": "some_public_id44",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ixaqbfsujoes7cosvhw7"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1706"
+  },
+  "name": "Palak Paneer",
+  "price": 299,
+  "description": "Creamy spinach and cottage cheese curry with aromatic spices.",
+  "category": "Mains",
+  "stock": 79,
+  "images": [
+    {
+      "public_id": "some_public_id45",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ltp4gxvrpvz4tpq37btk"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1707"
+  },
+  "name": "Dal Fry",
+  "price": 235,
+  "description": "Lentils cooked to perfection with aromatic spices, a classic Indian comfort dish.",
+  "category": "Mains",
+  "stock": 97,
+  "images": [
+    {
+      "public_id": "some_public_id46",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/zjilsiczspox9qzgp5qx"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1708"
+  },
+  "name": "Butter Chicken Masala",
+  "price": 330,
+  "description": "Tender pieces of chicken cooked in a rich and creamy tomato-based sauce.",
+  "category": "Mains",
+  "stock": 119,
+  "images": [
+    {
+      "public_id": "some_public_id47",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/otyd03hiioll8h7gakhm"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1709"
+  },
+  "name": "Murgh Tikka Masala",
+  "price": 330,
+  "description": "Boneless chicken pieces marinated in spices and cooked in a creamy tomato gravy.",
+  "category": "Mains",
+  "stock": 93,
+  "images": [
+    {
+      "public_id": "some_public_id48",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/t2dwj5vk4ubox4rtsl5m"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1710"
+  },
+  "name": "Tawa Paratha",
+  "price": 115,
+  "description": "Flaky and delicious Indian flatbread cooked on a hot griddle.",
+  "category": "Indian Breads",
+  "stock": 104,
+  "images": [
+    {
+      "public_id": "some_public_id49",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c2ch8i0cxszcqwohomdt"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1711"
+  },
+  "name": "Pudina Paratha",
+  "price": 80,
+  "description": "Mint-flavored Indian flatbread with a refreshing taste.",
+  "category": "Indian Breads",
+  "stock": 96,
+  "images": [
+    {
+      "public_id": "some_public_id50",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c2ch8i0cxszcqwohomdt"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1712"
+  },
+  "name": "Garlic Naan",
+  "price": 75,
+  "description": "Soft and aromatic Indian bread with a garlic flavor.",
+  "category": "Indian Breads",
+  "stock": 124,
+  "images": [
+    {
+      "public_id": "some_public_id51",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/bkhtktgmihi9gg5cpbo9"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1713"
+  },
+  "name": "Butter Kulcha",
+  "price": 75,
+  "description": "Soft and buttery Indian bread, a perfect accompaniment to curries.",
+  "category": "Indian Breads",
+  "stock": 88,
+  "images": [
+    {
+      "public_id": "some_public_id52",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wmorty8lgpgdq2yn0hxx"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1714"
+  },
+  "name": "Buttermilk",
+  "price": 45,
+  "description": "Refreshing and cooling buttermilk, a classic Indian beverage.",
+  "category": "Beverages",
+  "stock": 123,
+  "images": [
+    {
+      "public_id": "some_public_id53",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ac6n5jmxg9ms6vaidnsm"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1715"
+  },
+  "name": "Lassi",
+  "price": 130,
+  "description": "A sweet and creamy yogurt-based drink, a delightful treat.",
+  "category": "Beverages",
+  "stock": 107,
+  "images": [
+    {
+      "public_id": "some_public_id54",
+      "url": "https://www.whiskaffair.com/wp-content/uploads/2021/07/Sweet-Lassi-2-3.jpg"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1750"
+  },
+  "name": "4 Cheese Pizza",
+  "price": 639,
+  "description": "A cheesy delight with four different types of cheese topping.",
+  "category": "Pizzas",
+  "stock": 162,
+  "images": [
+    {
+      "public_id": "some_public_id71",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d9c11f172288ac1807133b4160a52793"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1751"
+  },
+  "name": "Margherita Pizza",
+  "price": 259,
+  "description": "A classic pizza with tomato, cheese, and basil topping.",
+  "category": "Pizzas",
+  "stock": 173,
+  "images": [
+    {
+      "public_id": "some_public_id72",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/fcb8fd526a6e17c937c86e8ac01ec063"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1752"
+  },
+  "name": "Farmhouse Pizza",
+  "price": 479,
+  "description": "A delightful pizza with a variety of fresh vegetables and cheese.",
+  "category": "Pizzas",
+  "stock": 129,
+  "images": [
+    {
+      "public_id": "some_public_id73",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f942f16c273afbe52669ca0489613124"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T15:49:57.895Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1753"
+  },
+  "name": "Primavera Gourmet Pizza",
+  "price": 699,
+  "description": "A gourmet pizza loaded with fresh vegetables and a burst of flavors.",
+  "category": "Pizzas",
+  "stock": 91,
+  "images": [
+    {
+      "public_id": "some_public_id74",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/6d58ceb657c68eec3d25e49f0740bdb5"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1754"
+  },
+  "name": "Spiced Double Chicken Pizza",
+  "price": 559,
+  "description": "A spicy double chicken delight for the meat lovers.",
+  "category": "Pizzas",
+  "stock": 102,
+  "images": [
+    {
+      "public_id": "some_public_id75",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/964986cbff449ad032698027914b8223"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1755"
+  },
+  "name": "Chicken Pepperoni Pizza",
+  "price": 619,
+  "description": "A classic pizza with chicken and pepperoni toppings.",
+  "category": "Pizzas",
+  "stock": 82,
+  "images": [
+    {
+      "public_id": "some_public_id76",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d22add398acba02b712dc8acc833b94d"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1756"
+  },
+  "name": "Smoked Chicken Gourmet Pizza",
+  "price": 849,
+  "description": "A gourmet pizza with smoky chicken and rich flavors.",
+  "category": "Pizzas",
+  "stock": 53,
+  "images": [
+    {
+      "public_id": "some_public_id77",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/8955a146913cccbabfe839f7ce7e70fa"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1757"
+  },
+  "name": "Garlic Breadsticks",
+  "price": 109,
+  "description": "Crispy breadsticks with a garlic buttery flavor, perfect as an appetizer.",
+  "category": "Sides",
+  "stock": 110,
+  "images": [
+    {
+      "public_id": "some_public_id78",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/9cad84ad008e6e92f31a40dd7bc7ceb5"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T15:49:57.899Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1758"
+  },
+  "name": "Cheesy Jalapeno Dip",
+  "price": 28,
+  "description": "A spicy and cheesy dip with a hint of jalapeno kick.",
+  "category": "Sides",
+  "stock": 190,
+  "images": [
+    {
+      "public_id": "some_public_id79",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/0470438602476dade603527507b97c35"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T15:49:57.903Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1759"
+  },
+  "name": "Basil Pesto Dip",
+  "price": 47,
+  "description": "A delightful dip with the aromatic flavors of basil pesto.",
+  "category": "Sides",
+  "stock": 132,
+  "images": [
+    {
+      "public_id": "some_public_id80",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/e285e11aacab2ae112f8aa3d732f2563"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1760"
+  },
+  "name": "Chicken Meatballs in Peri Peri Sauce",
+  "price": 155,
+  "description": "Tender chicken meatballs served in spicy peri peri sauce.",
+  "category": "Sides",
+  "stock": 97,
+  "images": [
+    {
+      "public_id": "some_public_id81",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/3c2d2237477e93f0cb5fead8f6683402"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1761"
+  },
+  "name": "Red Velvet Lava Cake",
+  "price": 139,
+  "description": "Indulge in the heavenly taste of a red velvet lava cake with a gooey center.",
+  "category": "Desserts",
+  "stock": 104,
+  "images": [
+    {
+      "public_id": "some_public_id82",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/1017c18326008549a510c409a559ee5c"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1762"
+  },
+  "name": "Butterscotch Mousse Cake",
+  "price": "104",
+  "description": "Satisfy your sweet tooth with a butterscotch mousse cake.",
+  "category": "Desserts",
+  "stock": 98,
+  "images": [
+    {
+      "public_id": "some_public_id83",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d9acfb1d2bed96ea87049d1b44b8a625"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T15:49:57.907Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1763"
+  },
+  "name": "Pepsi (475 ml)",
+  "price": 58,
+  "description": "A refreshing 475 ml bottle of Pepsi to quench your thirst.",
+  "category": "Beverages",
+  "stock": 152,
+  "images": [
+    {
+      "public_id": "some_public_id84",
+      "url": "https://lh3.googleusercontent.com/8_2sJQzIjlbaUSl7sBAQmdg0ybzJ_Z-nkSz95DQtRNUYHxsq48n6ghyJk2CB_J03CbVKCA2vP77I5DIaz8HiRCVmyD3wOMqI3Y5M1Xg=w200-rw"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1764"
+  },
+  "name": "Ginger Chai Flask",
+  "price": 109,
+  "description": "A flavorful and aromatic ginger-infused chai served in a flask.",
+  "category": "Milk Chai Flasks",
+  "stock": 131,
+  "images": [
+    {
+      "public_id": "some_public_id85",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/bf3444394abdc234b7295ed9e662609b"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1765"
+  },
+  "name": "Masala Chai Flask",
+  "price": 109,
+  "description": "A spicy and aromatic masala chai served in a flask.",
+  "category": "Milk Chai Flasks",
+  "stock": 105,
+  "images": [
+    {
+      "public_id": "some_public_id86",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/22f53a6462251057c210466dd40b548b"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-22T15:15:40.772Z"
+  }
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1766"
+  },
+  "name": "Elaichi Chai Flask",
+  "price": 109,
+  "description": "A fragrant and cardamom-infused elaichi chai served in a flask.",
+  "category": "Milk Chai Flasks",
+  "stock": 94,
+  "images": [
+    {
+      "public_id": "some_public_id87",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/h6ap9zzpmsbxoeeojlfq"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1767"
+  },
+  "name": "Dum Chai Flask",
+  "price": 109,
+  "description": "A slow-cooked and flavorful dum chai served in a flask.",
+  "category": "Milk Chai Flasks",
+  "stock": 87,
+  "images": [
+    {
+      "public_id": "some_public_id88",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/83402efd8f87621306f1bb6f9cfbf074"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1768"
+  },
+  "name": "Hibiscus Chai Flask",
+  "price": 109,
+  "description": "A refreshing and floral hibiscus-infused chai served in a flask.",
+  "category": "Herbal Chai Flasks",
+  "stock": 77,
+  "images": [
+    {
+      "public_id": "some_public_id89",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a5e290afcdaa36532036a677b763aabe"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1769"
+  },
+  "name": "Green Chai Flask",
+  "price": 109,
+  "description": "A soothing and green tea-based chai served in a flask.",
+  "category": "Herbal Chai Flasks",
+  "stock": 79,
+  "images": [
+    {
+      "public_id": "some_public_id90",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c1097bca65fe877d2fe39b2d4212b902"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1770"
+  },
+  "name": "Tulsi Chai Flask",
+  "price": 109,
+  "description": "A soothing and herbal tulsi-infused chai served in a flask.",
+  "category": "Herbal Chai Flasks",
+  "stock": 91,
+  "images": [
+    {
+      "public_id": "some_public_id91",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c1097bca65fe877d2fe39b2d4212b902"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1771"
+  },
+  "name": "Veg Atta Maggi",
+  "price": 75,
+  "description": "A delicious and savory Maggi prepared with wholesome vegetables.",
+  "category": "Snacks",
+  "stock": 116,
+  "images": [
+    {
+      "public_id": "some_public_id92",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wqxcfkydwr8iivu1u4g6"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1772"
+  },
+  "name": "Masala Poha",
+  "price": 95,
+  "description": "A flavorful and spicy poha dish with a touch of masala.",
+  "category": "Snacks",
+  "stock": 83,
+  "images": [
+    {
+      "public_id": "some_public_id93",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/bezwk3ilqtcqncbvsek6"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1773"
+  },
+  "name": "Chilli Cheese Toast",
+  "price": 130,
+  "description": "A delightful and cheesy toast with a spicy kick of chili.",
+  "category": "Snacks",
+  "stock": 102,
+  "images": [
+    {
+      "public_id": "some_public_id94",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/bohgzbjk5gs1xrenth9w"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1774"
+  },
+  "name": "Samosa",
+  "price": 35,
+  "description": "Crispy and savory samosas filled with delicious potato and spice stuffing.",
+  "category": "Snacks",
+  "stock": 147,
+  "images": [
+    {
+      "public_id": "some_public_id95",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/om7l98wwol43dicqdcdn"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1775"
+  },
+  "name": "Masala Peanuts",
+  "price": 25,
+  "description": "Crunchy and spicy masala-coated peanuts, perfect for snacking.",
+  "category": "Snacks",
+  "stock": 111,
+  "images": [
+    {
+      "public_id": "some_public_id96",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/nyq1izhnzvw9iwmyefys"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1780"
+  },
+  "name": "Dates and Almonds Tub",
+  "price": 99,
+  "description": "Indulge in a delightful combination of creamy ice cream with sweet dates and crunchy almonds.",
+  "category": "Creamy Tubs",
+  "stock": 86,
+  "images": [
+    {
+      "public_id": "some_public_id97",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/hdb53dgfnuyxxyhdkgdh"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1781"
+  },
+  "name": "Dark Chocolate Tub",
+  "price": 99,
+  "description": "Experience the richness of dark chocolate in this creamy and decadent ice cream tub.",
+  "category": "Creamy Tubs",
+  "stock": 96,
+  "images": [
+    {
+      "public_id": "some_public_id98",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/kcwfw4n4ki8nhwjldpye"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1782"
+  },
+  "name": "Chatpata Guava",
+  "price": 120,
+  "description": "Tantalize your taste buds with the spicy and tangy flavors of chatpata guava ice cream.",
+  "category": "Natural Fruits",
+  "stock": 77,
+  "images": [
+    {
+      "public_id": "some_public_id99",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/fsmpenroapm1gt640izx"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1783"
+  },
+  "name": "Litchi Lake",
+  "price": 140,
+  "description": "Dive into the refreshing taste of litchi with this delightful and fruity ice cream.",
+  "category": "Natural Fruits",
+  "stock": 68,
+  "images": [
+    {
+      "public_id": "some_public_id100",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/jw7bcpl5qs7vmbr8lqel"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1784"
+  },
+  "name": "Fruit Overload",
+  "price": 145,
+  "description": "A burst of fruity goodness with an overload of fresh and juicy fruits in every bite.",
+  "category": "Natural Fruits",
+  "stock": 122,
+  "images": [
+    {
+      "public_id": "some_public_id101",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/qogowgxezlkyibl0bvpe"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1785"
+  },
+  "name": "Oreo Shot",
+  "price": 105,
+  "description": "Experience the ultimate chocolate indulgence with chunks of Oreo cookies in every bite.",
+  "category": "Chocolate Wonders",
+  "stock": 89,
+  "images": [
+    {
+      "public_id": "some_public_id102",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/jt38ofbcnajwxjpemsp8"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1786"
+  },
+  "name": "La Ferrero",
+  "price": 180,
+  "description": "A Ferrero Rocher lover's dream come true, with the rich taste of hazelnuts and chocolate.",
+  "category": "Chocolate Wonders",
+  "stock": 57,
+  "images": [
+    {
+      "public_id": "some_public_id103",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/e9d3e35d53ed0562a41fa1a15a5f688a"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1787"
+  },
+  "name": "Willy Wonka",
+  "price": "140",
+  "description": "Embark on a whimsical chocolate adventure with this magical Willy Wonka-inspired ice cream.",
+  "category": "Chocolate Wonders",
+  "stock": 64,
+  "images": [
+    {
+      "public_id": "some_public_id104",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ru40x3j31k1b99zigjaz"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1788"
+  },
+  "name": "Tiraimisu",
+  "price": 145,
+  "description": "A delectable fusion of tiramisu and ice cream, perfect for coffee and dessert lovers.",
+  "category": "Chocolate Wonders",
+  "stock": 83,
+  "images": [
+    {
+      "public_id": "some_public_id105",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/is0t8qyhanevz40ffdco"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1789"
+  },
+  "name": "Gobi 65",
+  "price": 249,
+  "description": "Crispy and flavorful, these Gobi 65 bites are a vegetarian delight with a spicy twist.",
+  "category": "Appetizers",
+  "stock": 100,
+  "images": [
+    {
+      "public_id": "some_public_id106",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/mrkkec5mzlh3ecjpylys"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c178a"
+  },
+  "name": "Chicken Manchurian",
+  "price": 329,
+  "description": "Tender chicken pieces in a flavorful Manchurian sauce, a perfect blend of spicy and tangy.",
+  "category": "Appetizers",
+  "stock": 98,
+  "images": [
+    {
+      "public_id": "some_public_id107",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/zb7r2iobimiybrri8mib"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c178b"
+  },
+  "name": "Mushroom Pepper Fry",
+  "price": 259,
+  "description": "Sautéed mushrooms with a kick of black pepper, a delightful and spicy appetizer.",
+  "category": "Appetizers",
+  "stock": 76,
+  "images": [
+    {
+      "public_id": "some_public_id108",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tdk5iuqg1urkjatv4vqp"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c178c"
+  },
+  "name": "Paneer Biriyani",
+  "price": 259,
+  "description": "A delectable biryani with tender paneer pieces cooked to perfection in fragrant spices.",
+  "category": "Biriyani",
+  "stock": 121,
+  "images": [
+    {
+      "public_id": "some_public_id109",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/vimsdibsilxlfmcbhafb"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c178d"
+  },
+  "name": "Chicken Biriyani",
+  "price": 309,
+  "description": "A classic chicken biryani bursting with flavors, a true delight for meat lovers.",
+  "category": "Biriyani",
+  "stock": 143,
+  "images": [
+    {
+      "public_id": "some_public_id110",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/dtl4fumdhndachzfdvss"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c178e"
+  },
+  "name": "Kuska",
+  "price": 239,
+  "description": "A simple yet flavorful rice dish cooked with aromatic spices, a South Indian specialty.",
+  "category": "Biriyani",
+  "stock": 87,
+  "images": [
+    {
+      "public_id": "some_public_id111",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/mmvgbma7tx7lvzvbkqiw"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c178f"
+  },
+  "name": "Veg Biriyani",
+  "price": 249,
+  "description": "A vegetarian delight, this biryani is packed with the goodness of vegetables and spices.",
+  "category": "Biriyani",
+  "stock": 91,
+  "images": [
+    {
+      "public_id": "some_public_id112",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/mtzmr67nucy8lexs9qr8"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1790"
+  },
+  "name": "Fish Masala",
+  "price": 339,
+  "description": "Fresh fish cooked in a spicy masala, a seafood lover's dream come true.",
+  "category": "Curries and Gravies",
+  "stock": 71,
+  "images": [
+    {
+      "public_id": "some_public_id113",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tcefkxqc0gp4mtveelly"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1791"
+  },
+  "name": "Kadai Paneer",
+  "price": 289,
+  "description": "Paneer cooked in a rich and aromatic kadai masala, a vegetarian delight.",
+  "category": "Curries and Gravies",
+  "stock": 97,
+  "images": [
+    {
+      "public_id": "some_public_id114",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/atau0tepvcgmic1wfspw"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1792"
+  },
+  "name": "Kadai Veg",
+  "price": 279,
+  "description": "A medley of fresh vegetables cooked in a flavorful kadai masala, a vegetarian delight.",
+  "category": "Curries and Gravies",
+  "stock": 129,
+  "images": [
+    {
+      "public_id": "some_public_id115",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ngn2kgbnqgqgtb3gyprj"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1793"
+  },
+  "name": "Schezwan Chicken Fried Rice",
+  "price": 269,
+  "description": "Spicy and flavorful chicken fried rice with a kick of Schezwan sauce, a must-try dish.",
+  "category": "Rice and Noodles",
+  "stock": 122,
+  "images": [
+    {
+      "public_id": "some_public_id116",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ikipaekb3b50isdkjjs2"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1794"
+  },
+  "name": "Veg Noodles",
+  "price": 219,
+  "description": "Stir-fried noodles loaded with fresh vegetables, a delightful vegetarian choice.",
+  "category": "Rice and Noodles",
+  "stock": 94,
+  "images": [
+    {
+      "public_id": "some_public_id117",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/x3c15uodl6dbupku9tzi"
+    }
+  ],
+  "isVeg": true,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "64c2399985a26a78c29c1795"
+  },
+  "name": "Chicken Noodles",
+  "price": 259,
+  "description": "Tender chicken pieces stir-fried with noodles and aromatic spices, a satisfying meal.",
+  "category": "Rice and Noodles",
+  "stock": 80,
+  "images": [
+    {
+      "public_id": "some_public_id118",
+      "url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/lct2raalkkq2oshsdq9g"
+    }
+  ],
+  "isVeg": false,
+  "restaurant": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "__v": 1,
+  "numOfReviews": 0,
+  "ratings": 0,
+  "reviews": []
+}]

@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "650db0bbba5d89978180ed33"
+  },
+  "deliveryInfo": {
+    "address": "A-2, Ramaniyam Marvel, Seshadripuram 1st Main Road, Velachery",
+    "city": "Chennai",
+    "phoneNo": "9447024054",
+    "postalCode": "600042",
+    "country": "India"
+  },
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "user": {
+    "$oid": "650c2c956554c087e94b55d0"
+  },
+  "orderItems": [
+    {
+      "name": "Masala Chai Flask",
+      "quantity": 2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/22f53a6462251057c210466dd40b548b",
+      "price": 109,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1765"
+      },
+      "_id": {
+        "$oid": "650db0bbba5d89978180ed34"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3NtB9VSJzwZCMbsU0QmpTZ3p",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-09-22T15:20:27.205Z"
+  },
+  "itemsPrice": 218,
+  "taxPrice": 10.9,
+  "deliveryCharge": 0,
+  "finalTotal": 228.9,
+  "orderStatus": "Delivered",
+  "createdAt": {
+    "$date": "2023-09-22T15:20:27.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650db7a5ba5d89978180ee85"
+  },
+  "deliveryInfo": {
+    "address": "A-2, Ramaniyam Marvel, Seshadripuram 1st Main Road, Velachery",
+    "city": "Chennai",
+    "phoneNo": "9447024054",
+    "postalCode": "600042",
+    "country": "India"
+  },
+  "restaurant": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "user": {
+    "$oid": "650c2c956554c087e94b55d0"
+  },
+  "orderItems": [
+    {
+      "name": "Farmhouse Pizza",
+      "quantity": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f942f16c273afbe52669ca0489613124",
+      "price": 479,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1752"
+      },
+      "_id": {
+        "$oid": "650db7a5ba5d89978180ee86"
+      }
+    },
+    {
+      "name": "Garlic Breadsticks",
+      "quantity": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/9cad84ad008e6e92f31a40dd7bc7ceb5",
+      "price": 109,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1757"
+      },
+      "_id": {
+        "$oid": "650db7a5ba5d89978180ee87"
+      }
+    },
+    {
+      "name": "Cheesy Jalapeno Dip",
+      "quantity": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/0470438602476dade603527507b97c35",
+      "price": 28,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1758"
+      },
+      "_id": {
+        "$oid": "650db7a5ba5d89978180ee88"
+      }
+    },
+    {
+      "name": "Butterscotch Mousse Cake",
+      "quantity": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d9acfb1d2bed96ea87049d1b44b8a625",
+      "price": 104,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1762"
+      },
+      "_id": {
+        "$oid": "650db7a5ba5d89978180ee89"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3NtBc5SJzwZCMbsU1NqRykt1",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-09-22T15:49:57.888Z"
+  },
+  "itemsPrice": 720,
+  "taxPrice": 36,
+  "deliveryCharge": 0,
+  "finalTotal": 756,
+  "orderStatus": "Delivered",
+  "createdAt": {
+    "$date": "2023-09-22T15:49:57.890Z"
+  },
+  "__v": 0
+}]

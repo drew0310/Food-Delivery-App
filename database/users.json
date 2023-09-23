@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "650c2c956554c087e94b55d0"
+  },
+  "name": "Aravind",
+  "email": "raravind0310@gmail.com",
+  "password": "$2a$12$3bsQfpRaPkMbjUDfujh1q.M0webEQCVLUfYcxqNH9uoSYwYIJRweK",
+  "avatar": {
+    "public_id": "avatars/vweuhppgbvsv40m6flmb",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1695296660/avatars/vweuhppgbvsv40m6flmb.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9677051470",
+  "createdAt": {
+    "$date": "2023-09-21T11:39:58.106Z"
+  },
+  "active": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650d7073f8bfafc9828172f5"
+  },
+  "name": "Vignesh",
+  "email": "vignarav95@gmail.com",
+  "password": "$2a$12$kROaqOWEAvQvsPNHHNSH5.zQ8K/bns0S3HPJ1/cvasfJPFIzRlBNm",
+  "avatar": {
+    "public_id": "avatars/jgjms1ghvaibznj0e18x",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1695379571/avatars/jgjms1ghvaibznj0e18x.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9447024054",
+  "createdAt": {
+    "$date": "2023-09-22T10:43:09.010Z"
+  },
+  "active": true,
+  "__v": 0
+}]
