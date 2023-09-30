@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "name": "Masaledaar Firangi Tadka",
+  "address": "1/82, Ground Floor, Sankaran Avenue, Velachery Bypass Road, Velachery, Chennai, Tamil Nadu 600042",
+  "website": "https://masaledaar.in/",
+  "contact": {
+    "phone": "096262 22677"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://content.jdmagicbox.com/comp/chennai/x1/044pxx44.xx44.190418213645.b9x1/catalogue/masaledaar-firangi-tadka-chennai-north-indian-delivery-restaurants-nleyhsu325.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.5943526942352,
+      12.97180332771312
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 1735,
+  "ratings": 4.3,
+  "isVeg": true
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "name": "Eating Circles",
+  "address": "64, CP Ramaswamy Iyer Road, SBI Colony, Abiramapuram, Chennai, Tamil Nadu 600018",
+  "contact": {
+    "phone": "044 4855 1117"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://yourchennai.com/wp-content/uploads/2018/09/Eating-Circles-Alwarpet-Chennai-715x400.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.60276672121708,
+      12.980006721618679
+    ]
+  },
+  "status": {
+    "status": "PAUSED",
+    "paused_until": {
+      "$date": "2023-08-23T06:13:55.457Z"
+    },
+    "reason": "restaurant under maintainance"
+  },
+  "numOfReviews": 4888,
+  "ratings": 4.5,
+  "isVeg": true
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "name": "Flower Drum",
+  "address": "4th floor, 3, Lattice Bridge Road, Padmanabha Nagar, Adyar, Chennai, Tamil Nadu 600020",
+  "website": "https://flowerdrum.in",
+  "contact": {
+    "phone": "097904 88833"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/7/18429797/0e2417c56e3da2a9816ddf2b55e81e04.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.57029839105661,
+      12.95295933609484
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 2803,
+  "ratings": 4.4,
+  "isVeg": true
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "name": "Nandhana Palace",
+  "address": "30A, 2nd Floor, Velachery Bypass Road, Lakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+  "website": "http://nandhanarestaurants.com/about-us/",
+  "contact": {
+    "phone": "089255 37975"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://lh3.googleusercontent.com/q153L08ZTUTXjMDLsr27sL0nelhxmT0Etegmu3QnTCFWAcp3Xp69DURKSVlihbhyu5JNEFbfitmXpHUihDIB807JMOuhns_7rum22dQn=w512-rw"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.62240994577814,
+      12.936390501950683
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 1783,
+  "ratings": 3.9,
+  "isVeg": false
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "name": "Domino's Pizza",
+  "address": "Unit No.9 and 10, Lower Ground Floor, Nexus Vijaya Mall, 183, Arcot Road, Vadapalani, Chennai, Tamil Nadu 600026",
+  "website": "https://www.dominos.co.in/",
+  "contact": {
+    "phone": "18002081234"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://im.whatshot.in/img/2020/Jul/fvm-dominos-f-1594749993.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.60644533453593,
+      12.976366585972038
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 1177,
+  "ratings": 3.8,
+  "isVeg": false
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "name": "Chai Kings",
+  "address": "36, North Usman Road, Parthasarathipuram, T. Nagar, Chennai, Tamil Nadu 600017",
+  "website": "https://chaikings.com",
+  "contact": {
+    "phone": "098402 63387"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/2017/10/17074219/ChaiKings2.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.61605826922295,
+      12.976360109274447
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 1161,
+  "ratings": 4.2,
+  "isVeg": true
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "name": "Cream Stone",
+  "address": "253, TTK Road, opposite Puma, Alwarpet, Chennai, Tamil Nadu 600018",
+  "website": "http://www.creamstoneconcepts.com/",
+  "contact": {
+    "phone": "073387 39508"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/0/71840/dfccf95be52040fb6ae7729a784b0a55.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.75013,
+      12.971389
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 3424,
+  "ratings": 5,
+  "isVeg": true
+},{
+  "_id": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "name": "Dindigul Thalappakatti Biriyani",
+  "address": "AJ-213, 9th Main Road, Shanthi Colony, Anna Nagar, Chennai, Tamil Nadu 600040",
+  "website": "https://thalappakatti.com",
+  "contact": {
+    "phone": "044 4358 1491"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://qph.cf2.quoracdn.net/main-qimg-ec2cbca895d11193ebc82c71a280223f-lq"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.75013,
+      12.971389
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 905,
+  "ratings": 4,
+  "isVeg": false
+}]
