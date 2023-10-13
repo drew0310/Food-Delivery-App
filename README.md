@@ -56,4 +56,9 @@ Follow these steps to set up and run the project on your local machine:
 
 
 ## Configuration 
-In the `backend/config/config.env` file, you can find the various configuration settings for the app. Make sure to update these as needed for your specific setup.
+In the `backend/config/config.env` file, you can find the various configuration settings for the app. Make sure to update these as needed for your specific setup.  
+
+## Demo Video  
+
+https://screenrec.com/share/kM2GrOoYWf
+
