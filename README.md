@@ -60,5 +60,5 @@ In the `backend/config/config.env` file, you can find the various configuration 
 
 ## Demo Video  
 
-https://www.youtube.com/watch?v=nseA0t8eNdk
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nseA0t8eNdk" title="Food Delivery App using MERN Stack | Internship | WebStack Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
