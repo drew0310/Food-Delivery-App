@@ -60,5 +60,5 @@ In the `backend/config/config.env` file, you can find the various configuration 
 
 ## Demo Video  
 
-https://screenrec.com/share/kM2GrOoYW
+https://www.youtube.com/watch?v=nseA0t8eNdk
 
